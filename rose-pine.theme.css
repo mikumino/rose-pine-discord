@@ -11,7 +11,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;600;700&display=swap');
 :root {
 --Chat-Font-Used: 'Noto Sans JP', normal ;
---Chat-Font-Size: 14px;
+--Chat-Font-Size: 16px;
 }
 :not([class="hljs"]):not(code){
 font-family: var(--Chat-Font-Used)!important;
@@ -64,7 +64,7 @@ font-family: var(--Chat-Font-Used)!important;
 }
 
 body {
-    --font-display: Fira Code;
+    --font-display: Noto Sans JP;
 }
 
 .body-2wLx-E, .headerTop-3GPUSF, .bodyInnerWrapper-2bQs1k, .footer-3naVBw {
